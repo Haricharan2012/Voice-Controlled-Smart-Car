@@ -161,7 +161,8 @@ DC Gear Motors
 ---
 65 mm Robot Wheels
 
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/88c05b49-0b8e-4e34-ac0f-466c0ecd51c4" />
+<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/d0a3174f-dad4-4313-b224-da23ef697498" />
+
 
 ---
 
