@@ -154,6 +154,12 @@ Motor Driver Shield: L293D
 <img width="659" height="659" alt="image" src="https://github.com/user-attachments/assets/b914eb6e-61df-4102-89a9-58bf22cb4ff9" />
 
 ---
+DC Gear Motors
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/2a566766-d2f1-44a5-9f9d-d377f7db53d3" />
+
+---
+
 
 
 
@@ -209,12 +215,5 @@ Department of Computer Applications
 This project is for educational purposes.
 
 ---
-
-If you want, I can also:
-
-* Make this **more resume/portfolio focused (very important for placements)**
-* Add **GitHub badges + wiring diagram section**
-* Or convert it into a **top-tier project README (like open-source projects)** 🚀
-
 
 https://github.com/user-attachments/assets/e8f39534-7811-4fca-ae4e-5d633672a4d3
