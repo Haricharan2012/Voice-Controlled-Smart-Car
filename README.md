@@ -204,8 +204,9 @@ DC Gear Motors
 
 * Arduino Official Documentation
 * HC-SR04 Datasheet: https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
-* HC-05 Bluetooth Module Documentation
-* Servo & Motor Driver Libraries
+* HC-05 Bluetooth Module Documentation: https://components101.com/sites/default/files/component_datasheet/HC-05%20Datasheet.pdf
+* Servo SG90 Datasheet: http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf
+* Motor Driver Libraries: https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library
 
 ---
 
