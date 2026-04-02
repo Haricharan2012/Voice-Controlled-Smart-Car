@@ -203,7 +203,7 @@ DC Gear Motors
 ## 📚 References
 
 * Arduino Official Documentation
-* HC-SR04 Datasheet
+* HC-SR04 Datasheet: https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
 * HC-05 Bluetooth Module Documentation
 * Servo & Motor Driver Libraries
 
