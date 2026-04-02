@@ -110,7 +110,7 @@ The system is modular:
   
 ---
 
- ## Controls
+ ## 🎮 Controls
 
 #### 📡 Bluetooth Commands
 
