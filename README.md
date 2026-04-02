@@ -107,6 +107,10 @@ The system is modular:
 
 * Obstacle detected → Stops, reverses, turns
 * No obstacle → Moves forward
+  
+---
+
+ ## Controls
 
 #### 📡 Bluetooth Commands
 
@@ -225,7 +229,7 @@ This project is for educational purposes.
 
 ---
 
-## 📹 Videos
+## 📹 Video
 
 https://github.com/user-attachments/assets/e8f39534-7811-4fca-ae4e-5d633672a4d3
 
