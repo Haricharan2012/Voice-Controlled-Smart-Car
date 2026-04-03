@@ -232,7 +232,7 @@ This project is for educational purposes.
 
 ## 📹 Video
 
-https://github.com/user-attachments/assets/e8f39534-7811-4fca-ae4e-5d633672a4d3
+https://github.com/user-attachments/assets/28111735-4e74-4fa7-becb-ef045d88535b
 
 ---
 
